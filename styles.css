@@ -1,0 +1,50 @@
+.image {
+    width: 300px ; 
+    height: 200px;
+    margin:0 0 0 20px;
+    box-shadow: 5px 5px 5px #888;
+    
+}
+
+.body-alignment {
+    padding:0 10% 0 30%; 
+}
+
+.page-features {
+    width:340px;
+    border: thin solid;  
+    box-shadow: 10px 10px 5px #888;
+    background: lightcoral;
+}
+
+.padding {
+    padding: 0 5% 5% 5%;
+}
+
+.content-alignment {
+    width: 300px;
+    border: thin groove;
+    box-shadow: 5px 5px 5px #888;
+    font:100%/1.6 "serif" ;
+}
+
+.container {
+    text-align: justify;
+    padding: 10px;
+    background: lightgoldenrodyellow;   
+}
+
+.list {
+    list-style-type: none;
+    text-align: left;
+    margin: 0 0 0 -40px;
+}
+
+.list-items {
+    font-weight: bold;
+}
+
+
+
+
+
